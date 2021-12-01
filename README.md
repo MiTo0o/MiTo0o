@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **MiTo0o/MiTo0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MiTo0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiTo0o)](https://github.com/MiTo0o/github-readme-stats)
+![MiTo0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiTo0o&show_icons=true)
