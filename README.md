@@ -1,15 +1,17 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiTo0o&show_icons=true&theme=gotham" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiTo0o&theme=gotham" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiTo0o&layout=compact&theme=gotham" />
+</p>
+
 <!-- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 ![MiTo0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiTo0o&show_icons=true&theme=gotham)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiTo0o)](https://git.io/streak-stats)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiTo0o)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiTo0o&theme=gotham)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiTo0o&layout=compact&theme=gotham)
+
  -->
