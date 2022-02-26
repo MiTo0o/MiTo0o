@@ -10,5 +10,6 @@
 - ⚡ Fun fact: ... -->
 
 ![MiTo0o's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiTo0o&show_icons=true&theme=gotham)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiTo0o)](https://git.io/streak-stats)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiTo0o)
  -->
